@@ -1,1 +1,0 @@
-<button id = "zap10s" onclick="buttonHandle('zap10s');" style = "background-color:#FFBF00;" class = "button3"><span>HOUR +</span></button>
